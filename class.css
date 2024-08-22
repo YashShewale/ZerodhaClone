@@ -1,0 +1,10 @@
+.largebutton{
+    padding: 10px 30px;
+    text-align: center;
+    background-color: #387ed1;
+    border-radius: 3px;
+    border-color: white;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
